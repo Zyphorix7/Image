@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Lumina — AI Image Studio",
+  "description": "Smart AI-powered visual creation studio with gallery image upload, prompt-driven image synthesis for any subject, intelligent creative answers, and an artwork history archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
